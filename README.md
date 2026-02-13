@@ -9,3 +9,4 @@ Data analysis project on Zomato restaurant expansion strategy using Excel (Dashb
 
 📂 Files Included — 'Zomato_Data_p.xlsx' -> Interactive Excel Dashboard — 'Zomato_PresentationFile.pptx' -> Final Presentation — 'ZOMATO_DOC_FILE.docx' -> Analysation Steps ✨ This project highlights my ability to perform end-to-end business analysis using Excel.
 
+<img width="2456" height="1204" alt="dashboard" src="https://github.com/user-attachments/assets/cb84b66d-5cf9-4776-8883-10829d46b1ce" />
