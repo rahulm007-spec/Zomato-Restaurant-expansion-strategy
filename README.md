@@ -1,2 +1,11 @@
-# Zomato-Restaurant-expansion-strategy
-Zomato is aiming to expand its presence by identifying new strategic locations for restaurant openings. This project uses data-driven insights to suggest optimal areas for expansion based on ratings, price, votes, and cuisines.
+# Zomato-Restaurant-expansion-strategy (excel_project)
+Data analysis project on Zomato restaurant expansion strategy using Excel (Dashboard + Insights)
+
+📊 Objective You are hired as a consultant data analyst by Zomato, where the team is looking to expand and open more restaurants. The goal is to analyse the dataset and develop strategies/suggestions for opening newer restaurants.
+
+⚙️ Tools Used — Microsoft Excel (Data cleaning, Pivot Tables, Dashboard) — PowerPoint (Presentation)
+
+📈 Key Insights — Top-performing cities and cuisines — Customer demand trends — Expansion recommendations
+
+📂 Files Included — 'Zomato_Data_p.xlsx' -> Interactive Excel Dashboard — 'Zomato_PresentationFile.pptx' -> Final Presentation — 'ZOMATO_DOC_FILE.docx' -> Analysation Steps ✨ This project highlights my ability to perform end-to-end business analysis using Excel.
+
